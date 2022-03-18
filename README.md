@@ -6,4 +6,6 @@ To run the server:
 
 - cd MontyServer
 
+- npm install 
+
 - node app.js
